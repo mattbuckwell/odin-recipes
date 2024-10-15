@@ -31,6 +31,9 @@ img {
     margin: auto;
     border-radius: 20px;
     border: 1px solid #000;
+    width: 400px;
+    height: auto;
+
 }
 
 h2,
